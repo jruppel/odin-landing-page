@@ -1,8 +1,16 @@
 body {
     font-family: 'Roboto', sans-serif;
+    margin: 0;
 }
 
-.header, .footer {
+.links li {
+    display:inline-block;
+}
+
+.header {
     background-color: #1F2937;
     color: white;
+    display: flex;
+    padding-left: 64px;
+    padding-right: 64px;
 }
