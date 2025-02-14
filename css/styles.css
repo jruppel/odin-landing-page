@@ -17,9 +17,13 @@ h2 {
     font-weight: 900;
 }
 
+.section1 p,
 .links li {
     color: #E5E7EB;
-    font-size: 19px;
+    font-size: 18px;
+}
+
+.links li {
     display: inline-block;
     padding: 12px;
 }
