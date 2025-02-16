@@ -43,6 +43,22 @@ h2 {
 }
 
 .section1 {
-    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.section1 h2{
+    flex-basis: 33%;
+}
+
+.section1 img{
+    flex-basis: 66%;
+}
+
+.section1 p{
+    flex-basis: 33%;
+}
+
+.section1 button{
+    flex-basis: 10%;
 }
 
