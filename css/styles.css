@@ -43,24 +43,28 @@ h2 {
 }
 
 .section1 {
+    height: 500px;
+    column-gap: 55px;
+    padding-bottom: 100px;
+    flex-direction: column;
+    align-items: flex-start;
     flex-wrap: wrap;
-    justify-content: space-between;
 }
 
-.section1 h2{
-    flex-basis: 35%;
+.section1 h2,
+.section1 p{
+    width: 33%;
 }
 
 .section1 img {
     max-width: 35%;
 }
 
-
+/*
 .section1 p{
     flex-basis: 33%;
 }
-
+*/
 .section1 button{
     flex-basis: 0;
 }
-*/
