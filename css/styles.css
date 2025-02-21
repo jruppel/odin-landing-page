@@ -43,8 +43,7 @@ h2 {
 }
 
 .section1 {
-    max-height: 400px;
-    /*column-gap: 425px;*/
+    max-height: 500px;
     padding: 100px 200px;
     flex-direction: column;
     justify-content: flex-start;
@@ -63,11 +62,6 @@ h2 {
     align-self: flex-end;
 }
 
-/*
-.section1 p{
-    flex-basis: 33%;
-}
-*/
 .section1 button{
     margin: 5px;
     flex-basis: 0;
