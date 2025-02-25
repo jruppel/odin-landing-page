@@ -20,7 +20,7 @@ h2 {
 
 .section1 p,
 .links li {
-    color: #E5E7EB;
+    color: #e5e7eb;
     font-size: 18px;
 }
 
@@ -33,8 +33,8 @@ h2 {
 .section1 {
     background-color: #1F2937;
     display: flex;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 
 .header {
@@ -43,8 +43,8 @@ h2 {
 }
 
 .section1 {
-    max-height: 500px;
-    padding: 100px 200px;
+    max-height: 20vw;
+    padding: 5% 15%;
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
@@ -53,8 +53,8 @@ h2 {
 
 .section1 h2,
 .section1 p{
-    margin: 5px;
-    width: 30%;
+    margin: 0px;
+    width: 33%;
 }
 
 .section1 img {
@@ -63,9 +63,13 @@ h2 {
 }
 
 .section1 button{
-    margin: 5px;
+    margin: 1% 0px;
     flex-basis: 0;
-    padding: 5px 20px;
+    padding: 5px 25px;
     border-radius: 8px;
     background-color: #3882f6;
+}
+
+.section2 h3{
+    text-align: center;
 }
