@@ -19,7 +19,7 @@ h2 {
 }
 
 .section1 p,
-.links li {
+.links li{
     color: #e5e7eb;
     font-size: 18px;
 }
@@ -70,6 +70,20 @@ h2 {
     background-color: #3882f6;
 }
 
-.section2 h3{
+.section2{
+    display: flex;
+    flex-basis: 0;
+    justify-content: center;
+    padding: 5% 25%;
+}
+
+.section2 p{
+    text-align: center;
+    padding: 0px 3%;
+}
+
+h3{
+    font-size: 36px;
+    color: #1F2937;
     text-align: center;
 }
