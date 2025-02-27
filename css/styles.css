@@ -70,20 +70,22 @@ h2 {
     background-color: #3882f6;
 }
 
-.section2{
+.subtext,
+.images{
     display: flex;
     flex-basis: 0;
     justify-content: center;
-    padding: 5% 25%;
+    margin: 0% 25%;
 }
 
-.section2 p{
+.subtext p{
     text-align: center;
     padding: 0px 3%;
 }
 
-.section2 img{
-    max-width: 25%
+.images img{
+    max-width: 19%;
+    padding: 0px 3%;
 }
 
 h3{
