@@ -82,6 +82,10 @@ h2 {
     padding: 0px 3%;
 }
 
+.section2 img{
+    max-width: 25%
+}
+
 h3{
     font-size: 36px;
     color: #1F2937;
