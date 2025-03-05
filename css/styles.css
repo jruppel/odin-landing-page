@@ -116,3 +116,10 @@ h3{
     margin: 5px 0px;
     text-align: right;
 }
+
+.section4{
+    margin: 5% 15%;
+    padding: 2% 5%;
+    background-color: #3882f6;
+    border-radius: 10px;
+}
