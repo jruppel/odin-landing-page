@@ -30,7 +30,7 @@ h2 {
 }
 
 .header, 
-.section1 {
+.section1{
     background-color: #1F2937;
     padding: 0% 15%;
 }
@@ -141,4 +141,12 @@ h3{
     border: 1px solid #f9faf8; 
     border-radius: 5px;
     float: right;
+}
+
+.footer p{
+    margin: 0px 0px;
+    padding: 2%;
+    background-color: #1F2937;
+    color: #f9faf8;
+    text-align: center;
 }
