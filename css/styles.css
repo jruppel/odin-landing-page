@@ -32,33 +32,29 @@ h2 {
 .header, 
 .section1 {
     background-color: #1F2937;
-    display: flex;
     padding: 0% 15%;
 }
 
 .header {
+    display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
 .section1 {
     max-height: 300px;
-    padding: 5% 15%;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-    flex-wrap: wrap;
+    padding: 5% 15% 12%;
 }
 
 .section1 h2,
 .section1 p{
     margin: 0px;
-    width: 33%;
+    width: 34%;
 }
 
 .section1 img {
     max-width: 35%;
-    align-self: flex-end;
+    float: right;
 }
 
 .section1 button{
