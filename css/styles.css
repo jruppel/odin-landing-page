@@ -141,7 +141,8 @@ h3{
 
 .section4 button{
     background-color: #3882f6;
-    padding: .5% 2%;
+    padding: .5% 3%;
     border: 1px solid #f9faf8; 
     border-radius: 5px;
+    float: right;
 }
