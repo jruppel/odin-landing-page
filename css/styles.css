@@ -95,6 +95,11 @@ h3{
     font-size: 36px;
     color: #1F2937;
     text-align: center;
+    margin: 2.5%;
+}
+
+.subtext{
+    margin-bottom: 5%;
 }
 
 .section3{
